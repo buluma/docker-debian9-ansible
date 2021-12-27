@@ -1,4 +1,4 @@
-FROM debian:stretch
+FROM buluma/debian:stretch
 LABEL maintainer="Michael Buluma"
 
 # ENV DEBIAN_FRONTEND noninteractive
