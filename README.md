@@ -1,6 +1,6 @@
 # Debian 9 (Stretch) Ansible Test Image
 
-[![Build Status](https://travis-ci.com/buluma/docker-debian9-ansible.svg?branch=main)](https://travis-ci.com/buluma/docker-debian9-ansible) [![Build and release image](https://github.com/buluma/docker-debian9-ansible/actions/workflows/build.yml/badge.svg)](https://github.com/buluma/docker-debian9-ansible/actions/workflows/build.yml) [![Docker](https://github.com/buluma/docker-debian9-ansible/actions/workflows/release.yml/badge.svg)](https://github.com/buluma/docker-debian9-ansible/actions/workflows/release.yml) [![Docker Automated build](https://img.shields.io/docker/automated/buluma/docker-debian9-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/buluma/docker-debian9-ansible/) ![Docker Pulls](https://img.shields.io/docker/pulls/buluma/docker-debian9-ansible)
+[![Build Status](https://travis-ci.com/buluma/docker-debian9-ansible.svg?branch=main)](https://travis-ci.com/buluma/docker-debian9-ansible) [![Build and release image](https://github.com/buluma/docker-debian9-ansible/actions/workflows/build.yml/badge.svg)](https://github.com/buluma/docker-debian9-ansible/actions/workflows/build.yml) [![Docker Automated build](https://img.shields.io/docker/automated/buluma/docker-debian9-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/buluma/docker-debian9-ansible/) ![Docker Pulls](https://img.shields.io/docker/pulls/buluma/docker-debian9-ansible)
 
 Debian 9 (Stretch) Docker container for Ansible playbook and role testing.
 
